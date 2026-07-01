@@ -1,5 +1,7 @@
 # 💰 Expense Tracker
 
+![License](https://img.shields.io/github/license/SaiSankeerth-dev/Expenditure-tracker) ![Vanilla JS](https://img.shields.io/badge/stack-HTML%2FCSS%2FJS-yellow) ![No build step](https://img.shields.io/badge/build-none-lightgrey)
+
 A simple and user-friendly expense tracking web application that helps users record, manage, and monitor their daily expenses. The application provides an intuitive interface for tracking spending habits, organizing financial records, and improving personal budgeting.
 
 ## 🚀 Features
@@ -20,28 +22,20 @@ A simple and user-friendly expense tracking web application that helps users rec
 ## 📂 Project Structure
 
 ```text
-Expense-Tracker/
+Expenditure-tracker/
 ├── index.html
 ├── style.css
-├── script.js
-└── assets/
+└── script.js
 ```
 
 ## ⚡ Getting Started
 
-1. Clone the repository
-
 ```bash
-git clone https://github.com/your-username/expense-tracker.git
+git clone https://github.com/SaiSankeerth-dev/Expenditure-tracker.git
+cd Expenditure-tracker
 ```
 
-2. Open the project folder
-
-```bash
-cd expense-tracker
-```
-
-3. Open `index.html` in your browser
+Open `index.html` in your browser — no build step, no dependencies.
 
 ## 🎯 Purpose
 
